@@ -1,21 +1,15 @@
 ---
 templateKey: news
-title: Lever Press Announces Launch of New Discussion Group Email List
-summary: All interested staff from Lever Press supporting institutions are
-  welcome to join a new email discussion group created for informal discussion
-  and questions about Lever Press.
-date: 2023-08-25T19:14:00.635Z
+title: Introducing Aperio
+summary: A new open access press from UVA Press and UVA Library
+date: 2023-05-25T19:14:00.000Z
 ---
-The listserv will provide an opportunity for the Lever community to discuss topics of interest and share information. Discussion topics on this list might include: making Lever books visible in your discovery system; how to talk about Lever and open access publishing on your campus; how to talk about Lever with colleagues at other libraries; the latest Lever Press updates; and whatever else you are interested in discussing.
+Today is an exciting day at the University of Virginia. We’re excited to launch Aperio, a new open access press and collaboration between the UVA Library and UVA Press. This moment represents the beginning of a new chapter for our University and a new spin on an old mission. We’re going to “advance, preserve, and disseminate knowledge” by making it open access (and thereby removing price and permission barriers) for a global audience in a variety of formats.
 
- 
+We are leading with Aperio Journals, which is operated by the UVA Library, and will begin publishing discipline-leading, high-quality, peer reviewed journals this year. Aperio’s portfolio will also include open educational resources, open monographs, conferences, and other forms of research and scholarship.
 
-Interested staff from Lever Press member institutions can join by sending an email request with their name, title, and institution name to <info@leverpress.org>, subject line “Join Lever Discussion Group.”
+This is an exciting time to be a scholarly publisher and the number of new open access presses attests to that. After careful consideration, we decided to join the Ubiquity Partner Network because of the level of service and features that Ubiquity Press allows us to offer to our authors, editors, reviewers, and readers.
 
- 
+We encourage you to learn more about Aperio and our goals. Follow us on Twitter (@AperioUVA) and join our mailing list to stay in touch.
 
-Official Lever Press communications (calls for nominations; member meeting announcements; newsletters) will continue to be disseminated via the pledging institution distribution list, which is limited to institutional official Lever Press voting representatives.
-
- 
-
-If you have any questions about this new listserv, please e-mail [info@leverpress.org](mailto:info@leverpress.org). Terri Geitgey, program manager for Lever Press, serves as the list moderator.
+Finally, we’d like to thank everyone who lent advice and support or made contributions to Aperio as the service was developed. We’re looking forward to a bright future.
