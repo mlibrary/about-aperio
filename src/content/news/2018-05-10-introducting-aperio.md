@@ -2,7 +2,7 @@
 templateKey: news
 title: Introducing Aperio
 summary: A new open access press from UVA Press and UVA Library
-date: 2023-05-25T19:14:00.000Z
+date: 2018-05-10T19:14:00.000Z
 ---
 Today is an exciting day at the University of Virginia. We’re excited to launch Aperio, a new open access press and collaboration between the UVA Library and UVA Press. This moment represents the beginning of a new chapter for our University and a new spin on an old mission. We’re going to “advance, preserve, and disseminate knowledge” by making it open access (and thereby removing price and permission barriers) for a global audience in a variety of formats.
 

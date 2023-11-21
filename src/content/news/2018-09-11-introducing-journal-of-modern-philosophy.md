@@ -1,9 +1,8 @@
 ---
 templateKey: news
 title: Introducing the Journal of Modern Philosophy
-summary: Aperio is pleased to announce the launch of our first publication, the
-  Journal of Modern Philosophy.
-date: 2023-08-25T19:14:00.635Z
+summary: Aperio is pleased to announce the launch of our first publication, the Journal of Modern Philosophy.
+date: 2018-09-11T19:14:00.635Z
 ---
 JMPhil is now accepting submissions and will publish papers on the history of philosophy from the 16th century through the 18th century up to, but not including, Kant. This new and fully open access journal is free of charges for both authors and readers. The founding editors are Antonia LoLordo, Professor of Philosophy at the University of Virginia, and Aaron Garrett, Associate Professor of Philosophy at Boston University.
 
