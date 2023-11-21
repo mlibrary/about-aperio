@@ -15,7 +15,7 @@ if (process.env.BRANCH === "preview") {
     config: {
       backend: {
         name: 'github',
-        repo: 'mlibrary/about-ebc',
+        repo: 'mlibrary/about-aperio',
         branch: 'preview'
       }
     }
@@ -25,8 +25,8 @@ if (process.env.BRANCH === "preview") {
     config: {
       backend: {
         name: 'github',
-        repo: 'mlibrary/about-ebc',
-        branch: 'master'
+        repo: 'mlibrary/about-aperio',
+        branch: 'main'
       }
     }
   });
