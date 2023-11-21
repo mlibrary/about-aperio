@@ -1,8 +1,7 @@
 ---
 templateKey: card
 title: Our Books
-description: The University of Michigan Press Ebook Collection contains
-  award-winning humanities and social sciences monographs.
+description: Aperio Press recently published an OER title about public domain music.
 buttonLabel: Start reading
 buttonUrl: https://www.fulcrum.org/aperio
 cardImage: assets/aperio-books.png
