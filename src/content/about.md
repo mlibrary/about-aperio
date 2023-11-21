@@ -3,37 +3,79 @@ templateKey: about-page
 title: About
 ---
 <ul class="list-unstyled">
-<li><a href="#mission">Mission Statement</a></li>
-<li><a href="#ebc">About UMP EBC</a></li>
-<li><a href="#oa">Open Access for HSS</a></li>
-<li><a href="#dei">Diversity, Equity, and Inclusion</a></li>
-<li><a href="#governance">Governance</a></li>
+<li><a href="#about">About Aperio</a></li>
+<li><a href="#team">Aperio Press Leadership</a></li>
+<li><a href="#policies">Practicies and Policies</a></li>
 </ul>
 
-<h2 id="mission">The University of Michigan Press</h2>
+<h2 id="about">About Aperio</h2>
 
-The University of Michigan Press is a vital component of U-M Library's <a href="https://publishing.umich.edu">Michigan Publishing</a>, which is the primary academic publishing division of the University. In partnership with our authors and series editors, we publish in <a href="https://www.press.umich.edu/browse/subjects">a wide range of humanities and social science disciplines</a>. We champion the Library's research and scholarly communication missions through our global digital and print publishing and distribution programs.
+Aperio, a venture of the University of Virginia Library, draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats—journals, monographs, open educational resources, etc.
 
-Together with our authors, we also play a critical role in the teaching and learning mission of the University by applying new pedagogies to the development of instructional materials that promote college success for students. To address the educational and information needs of our regional readers, the Press also produces publications on Michigan and the Great Lakes region.
+Aperio publishes discipline-leading, high-quality open access journals that are freely and immediately available online. By removing price and permission barriers for readers everywhere we increase the dissemination, visibility, accessibility, and impact of research and scholarship across the disciplines.
 
-The Press, with our rich history of publishing expertise, [continues to lead in the development of digital scholarship](https://youtu.be/EK7r6Eowccw) and to support the dissemination of knowledge as widely and freely as possible.
+We recognize that no institution can afford to provide access to all the literature that readers need. The high cost of journal subscriptions not only functions to artificially limit the accessibility of articles, it also decreases their potential research impact. Therefore, we make all of our articles freely available with little or no restrictions on reuse. This will increase the dissemination and impact of our authors' work, foster collaboration among researchers and scholars, and promote further inquiry.
 
-<h2 id="ebc">University of Michigan Press Ebook Collection (UMP EBC)</h2>
+Aperio’s transdisciplinary Advisory Board, comprised of well-respected UVA scholars, bolsters the academic integrity of our press. Journals are edited by distinguished experts in their respective fields. These publications are held to disciplinary standards including rigorous peer review.
 
-The UMP EBC is a comprehensive collection of the University of Michigan Press’s scholarly ebooks for sale to libraries. The Press adds at least 80 titles annually. The UMP EBC is fully accessible on <a href="https://www.fulcrum.org/michigan">Fulcrum</a>, a leading community-developed, open-source platform for digital scholarship developed by Michigan Publishing and the U-M Library. Fulcrum offers users the ability to read books with associated digital enhancements, such as 3-D models, embedded audio, video, and databases; zoomable online images, and interactive media. Explore open access titles at <a href="https://www.fulcrum.org/michigan">https://www.fulcrum.org/michigan</a>. 
+<h3>Goals</h3>
 
-<h2 id="oa">Open Access for the Humanities and Qualitative Social Sciences</h2>
+* Aperio publishes open access journals that reflect the various fields of knowledge represented at UVA, including new and interdisciplinary lines of inquiry.
+* Aperio works towards the decommodification of research and scholarship; our journals have no author-facing charges and are published under a [Creative Commons license](https://creativecommons.org/), making them free for readers everywhere to access and use.
+* Aperio maintains high academic standards for our journals and ensures that they are edited and produced in a rigorous manner that adheres to disciplinary norms.
+* Aperio supports both experimental and traditional forms of scholarly publishing. Our publications are professionally produced, widely disseminated, and digitally preserved.
 
-In the humanities, the monograph often acts as the lab where scholars experiment and engage with other thinkers. Despite the valuable ideas emerging from these fields, the academic community has struggled to find sustainable ways to make humanities monographs open access. Grant money and other funding is often less available to these scholars than to their counterparts in the sciences. As a result, the academic and publishing communities have had to explore new ways to make the turn to open. Fund to Mission from the University of Michigan Press is one such project to open the humanities.
+<h3>Diveresity Statement</h3>
+Aperio, as a service of the University of the Virginia, shares the university's core values of ethics, integrity, academic excellence, and diversity. Therefore, we are committed to promoting diverse voices in our publications, including those who have been traditionally underrepresented in scholarly publishing. We encourage editorial members associated with our publishing service to actively seek out board members, reviewers, and authors in underrepresented populations and heterogeneity among: race, gender, nationality, religion, sexual orientation, ability, age, and class.
 
-The endeavor of opening humanities content to the world is a vital one. As the core places where work in these fields is done, monographs have the potential to be spaces that inspire dialogues and connections. When monographs exist only behind paywalls, there is less of an opportunity for global collaborations to happen. However, when these monographs become open access, new opportunities for interdisciplinary exchange emerge.
+<h2 id="team">Aperio Press Leadership</h2>
+<h3>Aperio Management Team</h3>
 
-The University of Michigan Press has moved towards open access for its monographs precisely in order to provide these new opportunities for exploration. It exists within a network of university presses that are supported by their parent institutions and work together to provide the infrastructure of the humanities. Ensuring that everyone has access to the scholarship published by these presses, no matter where they are located or what their institutional affiliation is, can only strengthen our shared understanding of the beautiful diversity of culture, society, and identity.
+Aperio is run by members of the University of Virginia Library and led by the Management Team. The Managing Editor is responsible for the day-to-day operations of the press. The Management Team focuses on Aperio’s strategy, operations, and finances, and Fulcrum provides most of our technology and production services.
 
-<h2 id="dei">Diversity, Equity, Inclusion, and Accessibility at UMP</h2>
+* Dave Ghamandi, Managing Editor, Aperio and Open Publishing Librarian
+* Jennifer Roper, Director of Digital Strategies and Scholarly Communication
 
-The University of Michigan Press strongly supports the struggle for racial justice. We publish and distribute books in the humanities and social sciences that seek to make sense of society and culture. We must and will question through whose lens those concepts are constructed. In addition, we recognize the important role that we play in helping to determine which voices are able to participate in the social and academic discourse, making it all the more important that we evaluate our practices critically and progressively. We seek to increase the participation of Black, Indigenous, and People of Color (BIPOC) in our publishing as authors, domain experts, and selectors. We commit to developing an anti-racist workplace climate, improving our shared awareness of the language and systems that serve to perpetuate racism so we can change them. We will also continue to develop strategies that improve equitable access to our publications, recognizing that current systems exclude many readers who need the important works that we publish but cannot access them.
+<h3>Aperio Advisory Board</h3>
+Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio. Proposals are peer reviewed using experts from outside our university before being considered by the Advisory Board.
 
-<h2 id="governance">Governance</h2>
+* [Fiona Greenland](https://sociology.as.virginia.edu/people/profile/fg5t) (chair), Assistant Professor of Sociology
+* [Natasha Heller](<https://religiousstudies.as.virginia.edu/faculty/profile/ nlh4x>), Associate Professor, Religious Studies
+* [Jonathan Kropko](https://datascience.virginia.edu/people/jonathan-kropko), Assistant Professor, Data Science
+* [John O’Brien](https://english.as.virginia.edu/obrien-0), Professor of English
+* [Bryan Cook](https://education.virginia.edu/about/directory/bryan-cook), Professor of Special Education
 
-The quality of the publishing program of the Press is assured through a rigorous peer-review process overseen by its faculty Executive Committee. The purpose of the Executive Committee is to approve (or decline to approve) projects for publication, proposed series, and proposed distributed clients under the University of Michigan Press imprint, advise the Press director on strategic directions, and serve as a productive interface between the Press, the University of Michigan, and the academic community more broadly. It is composed of nine voting members of the University of Michigan (Ann Arbor) faculty. The <a href="https://docs.google.com/document/d/1jUcteQczEar0U7IrE30KfUNdw7JZvduMeztrhJeg8zk/edit?usp=sharing">Executive Committee guidelines describe its operations more fully</a>.
+<h2 id="policies">Practices and Policies</h2>
+
+<h3>Scope</h3>
+A venture of the University of Virginia Library, Aperio draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats. By making all of our publications open access—and removing price and permission barriers for readers everywhere—we increase the dissemination, visibility, accessibility, and impact of research and scholarship across the disciplines. We currently support the open access publishing of journals, monographs, edited volumes, open textbooks and other educational resources, and will consider other publication types well. Aperio’s publishing scope reflects the various fields of knowledge, including new and interdisciplinary lines of inquiry.
+
+Currently, Aperio is accepting proposals from University of Virginia faculty, staff, and students.
+
+<h3>Open Access and Copyright</h3>
+Aperio’s publications are all immediately available open access. Our content is published using Creative Commons Licenses, which guarantee that the copyright remains with the author while allowing the work to be freely and immediately available to readers.
+
+<h3>Peer Review</h3>
+Aperio provides its journal editors with access to and guidance on the \[Committee on Publishing Ethics](https://publicationethics.org/) (COPE) guidelines, and our editors have agreed to adhere to them.
+
+In accordance with these guidelines, each journal maintains high academic standards and sets its own peer review process in accordance with disciplinary norms. We offer the option of open peer review as well. Any content that is not peer-reviewed will be clearly marked on the journal website. The peer review process for other publications will be noted individually.
+
+<h3>Indexing</h3>
+Our content is assigned \[Digital Object Identifiers](https://www.doi.org/) (DOI). This allows for easier referencing and tracking of citations by the publishing and research communities. We work with editors to ensure that journals are registered with as many appropriate indexes as possible. Article-level metadata are openly available for indexing and harvesting via OAI-PMH as well. Individual journals may list additional indexes where their articles are found.
+
+<h3>Archiving</h3>
+To ensure the future availability of our publications, we utilize [CLOCKSS](https://www.clockss.org). The University of Virginia is a CLOCKSS node and a member of its Board of Directors.
+
+<h3>Data Sharing</h3>
+We encourage Aperio’s authors to make their related research objects open access in addition to the written publications. Open data, specifically, enables better review and replication of one’s research. It also increases one’s research impact, allows for greater and faster scientific progress, and more opportunities for collaboration.
+
+We urge authors to use the CC0 license when depositing research data, to make it part of the public domain and enable greater reuse.
+
+Researchers at the University of Virginia have access to the institution’s data repository [Libra Data](https://www.library.virginia.edu/libra/datasets/).
+
+Researchers outside of the University of Virginia are encouraged to deposit their data in an appropriate institutional or disciplinary repository.
+
+Journal editors may contact us about creating their own journal-specific data repository within UVa’s Libra Data. This will ensure better linking between research publications and related datasets.
+
+<h3>Costs</h3>
+Aperio’s publications are always free for readers everywhere. In alignment with our mission, we have worked with our partners to eliminate any need for article processing charges in all our journals.
