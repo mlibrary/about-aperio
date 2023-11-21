@@ -1,0 +1,138 @@
+media_folder: static/assets
+public_folder: assets
+public_folder_relative: false
+collections:
+  - name: cards
+    label: Cards
+    folder: src/content/cards
+    create: true
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: card }
+      - { name: title, label: Title }
+      - { name: description, label: Description }
+      - { name: buttonLabel, label: "Button Label" }
+      - { name: buttonUrl, label: "Button Url" }
+      - { name: cardImage, label: "Card Image", widget: image }
+      - { name: date, label: Published, widget: datetime }
+  - name: quick-links
+    label: "Quick Links"
+    folder: src/content/quick-links
+    create: true
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: quick-link }
+      - { name: title, label: "Page Title" }
+      - { name: pageUrl, label: "Page URL" }
+      - { name: order, label: "Order in footer" }
+  - name: news
+    label: News
+    folder: src/content/news
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: templateKey, label: "Template Key", widget: hidden, default: story }
+      - { name: title, label: Title }
+      - { name: summary, label: Summary }
+      - { name: body, label: Body, widget: markdown }
+      - { name: date, label: Published, widget: datetime }
+  - name: pages
+    label: Pages
+    files:
+      - file: src/content/home.md
+        name: home
+        label: Home
+        editor:
+          preview: false
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: home-page }
+          - name: taglineSection
+            label: "Tag Line Section"
+            widget: object
+            fields:
+              - { name: text, label: Text, widget: markdown }
+              - { name: buttonLabel, label: "Button Label" }
+              - { name: buttonUrl, label: "Button URL" }
+          - name: firstCallToActionSection
+            label: "First Call to Action Section"
+            widget: object
+            fields:
+              - { name: description, label: Description }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: secondCallToActionSection
+            label: "Second Call to Action Section"
+            widget: object
+            fields:
+              - { name: description, label: Description }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+          - name: thirdCallToActionSection
+            label: "Third Call to Action Section"
+            widget: object
+            fields:
+              - { name: description, label: Description }
+              - { name: buttonUrl, label: "Button URL" }
+              - { name: buttonLabel, label: "Button Label" }
+      - file: "src/content/about.md"
+        name: about
+        label: About
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: about-page }
+          - { name: title, label: About }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/contact.md"
+        name: contact
+        label: Contact
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: contact-page }
+          - { name: title, label: Contact }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/help.md"
+        name: help
+        label: Help
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: help-page }
+          - { name: title, label: Help }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/faqs.md"
+        name: faqs
+        label: FAQs
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: faqs-page }
+          - { name: title, label: FAQs }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/reports.md"
+        name: reports
+        label: Reports
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: reports-page }
+          - { name: title, label: Reports }
+          - { name: readershipMapDescription, label: "Readership Map Description", widget: markdown }
+          - { name: googleDataStudioDescription, label: "Google Data Studio Description", widget: markdown }
+      - file: "src/content/terms.md"
+        name: terms
+        label: Terms
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: terms-page }
+          - { name: title, label: Terms }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/proposal-information.md"
+        name: proposal-information
+        label: Proposal Information
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: proposal-information-page }
+          - { name: title, label: Proposal Information }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/proposal-books.md"
+        name: proposal-books
+        label: Book Proposals
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: proposal-books-page }
+          - { name: title, label: Book Proposals }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/proposal-journals.md"
+        name: proposal-journals
+        label: Journal Proposals
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: proposal-journals-page }
+          - { name: title, label: Journal Proposals }
+          - { name: body, label: Body, widget: markdown }
