@@ -12,8 +12,6 @@ const Reports = ({data}) => {
     googleDataStudioDescription
   } = data.markdownRemark.frontmatter
 
-  const stories = data.stories.edges
-
   // When we have markdown in the frontmatter, we need to process it
   // with ReactMarkdown (or something) or something similar.
   // When it's in the "html"/not frontmatter, we would "dangerouslySetInnerHTML"
@@ -25,7 +23,7 @@ const Reports = ({data}) => {
         <Title title={title} />
         
         <section className="cards-container">
-          <h2 id="stories" className="mb-4">Usage Reports</h2>          
+          <h2 id="reports" className="mb-4">Usage Reports</h2>          
         </section>
         <section>
           <div id="readership-map" className="readership-map">
