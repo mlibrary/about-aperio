@@ -32,7 +32,7 @@ const Navbar = () => {
       </header>
       <div className="nav-scroller">
         <div className="container">
-          <nav className="nav d-flex justify-content-between">
+          <nav className="nav d-flex justify-content-between collapse">
             <Link to="/about" className="nav-link text-dark">
               About
             </Link>

@@ -263,6 +263,13 @@ header {
   }
 }
 
+// news on home
+.blog-card-container {
+  a .card-text {
+    color: $aperio-accent-color;
+  }
+}
+
 // tables
 thead {
   @include gibson;
@@ -300,6 +307,8 @@ blockquote {
   h2 {
     text-align: center;
     margin-bottom: 2rem;
+    font-size: 1.95rem;
+    font-weight: 600;
   }
 }
 
@@ -347,6 +356,12 @@ p.social {
       fill: $aperio-accent-color;
     }
   }
+
+  .tw {
+    height: 16px;
+    width: auto;
+    padding-left: 1rem;
+  }
 }
 
 // sub-pages
@@ -375,6 +390,11 @@ p.social {
     .logo-img img {
       height: auto;
       width: 165px;
+    }
+
+    .footer-email {
+      vertical-align: sub;
+      margin-left: .6rem;
     }
   }
 

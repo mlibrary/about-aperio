@@ -1,8 +1,7 @@
 ---
 templateKey: card
 title: Our Journals
-description: The University of Michigan Press Ebook Collection is transitioning
-  to an open access monograph model termed Fund to Mission.
+description: We publish open access journals in the fields of linguistics, health, history, philosophy, and pedagogy.
 buttonLabel: Browse Journals
 buttonUrl: https://journals.aperio.press
 cardImage: assets/aperio-journals.png
