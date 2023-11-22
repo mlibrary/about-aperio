@@ -12,10 +12,10 @@ const News = ({data}) => {
       <SEO title={title} />
       <div className="container page-container">
         <div className="row justify-content-md-center">
-          <div className="col-md-10">
+          <div className="col-md-8">
             <h1 className="mb-3">{title}</h1>
             <div className="summary">
-              <time className="mt-4">{date}</time>
+              <time className="mt-4 gibson mb-4">{date}</time>
               <p className="lead">{summary}</p>
             </div>
           </div>

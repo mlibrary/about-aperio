@@ -1,0 +1,15 @@
+---
+templateKey: news
+title: 'In Memoriam: Mark Saunders'
+summary: We at Aperio are saddened by the sudden loss of one of our leaders, Mark Saunders.
+date: 2019-06-07T19:14:00.635Z
+---
+It is with deep sadness that we share the announcement of the passing of Mark Saunders, Director of the University of Virginia Press. Mark died suddenly of a heart attack at his home on May 19. He was 52.
+
+Many of you have gotten to know Mark over the years, a consummate publishing professional and a beloved friend and mentor to many. A book lover and salesman from the start, Mark launched his career at Politics & Prose Bookstore, buying small and university frontlist and backlist and arranging reading series and author events. He then moved on to Columbia University Press, where he served as East Coast Sales Representative and then National Sales Manager. In 1995 he joined the marketing department at UVA Press, where he would become Director of Marketing and Sales and, in 2013, Press Director, supervising a staff of twenty and leading strategic planning, acquisitions, editorial, production, marketing, fiscal, and fundraising activities of the press. Among his many notable achievements at UVA Press was his central role in establishing its Rotunda electronic imprint, which put the Press at the forefront of innovation in digital scholarship. A dedicated leader within the Association of University Presses, Mark was a pillar within the publishing community. Among Mark’s most recent accomplishments was collaborating, on the behalf of the Press, with the UVA Library on Aperio, an initiative to bring open-access content to scholars and students.
+
+Mark was also an accomplished author. His novel, Ministers of Fire, was published in 2012 by Swallow Press, an imprint of Ohio University Press. The book received widespread acclaim, including a review in the Wall Street Journal that said, “Ministers of Fire deserves a place next to the works of such masters as Charles McCarry and Robert Stone.”
+
+Mark was a true renaissance man, and outside of work his passions included not only writing but traveling, carpentry, the outdoors, boating at his house in Maine, reading, the arts, politics, taking time in his garden, playing with his dogs and looking after his cats and tortoise, and all things sports, including coaching his three children, who meant the world to him. At UVA Press, we will remember him as a man of great intelligence and wit, always ready to make us laugh while leading us to the right decision. Most important, he was a devoted family man and a great friend.
+
+We at the Library and Press are both saddened and shocked by Mark’s unexpected passing; we know these feelings will be shared by many people throughout the publishing world. His great expertise and unique and remarkable character will be profoundly missed and inspire us always.

@@ -14,15 +14,6 @@ collections:
       - { name: buttonUrl, label: "Button Url" }
       - { name: cardImage, label: "Card Image", widget: image }
       - { name: date, label: Published, widget: datetime }
-  - name: quick-links
-    label: "Quick Links"
-    folder: src/content/quick-links
-    create: true
-    fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: quick-link }
-      - { name: title, label: "Page Title" }
-      - { name: pageUrl, label: "Page URL" }
-      - { name: order, label: "Order in footer" }
   - name: news
     label: News
     folder: src/content/news
@@ -114,6 +105,13 @@ collections:
         fields:
           - { name: templateKey, label: "Template Key", widget: hidden, default: terms-page }
           - { name: title, label: Terms }
+          - { name: body, label: Body, widget: markdown }
+      - file: "src/content/privacy.md"
+        name: privacy
+        label: Privacy
+        fields:
+          - { name: templateKey, label: "Template Key", widget: hidden, default: privacy-page }
+          - { name: title, label: Privacy }
           - { name: body, label: Body, widget: markdown }
       - file: "src/content/proposal-information.md"
         name: proposal-information
