@@ -19,6 +19,7 @@ Currently, Aperio is accepting proposals from University of Virginia faculty, st
 If you would like to publish with Aperio, please review our policies and the following pages based on your desired format before emailing <a href="mailto:publish@virginia.edu">publish@virginia.edu</a> to set-up an initial consultation.
 
 <br/>
+<br/>
 
 <ul class="list-unstyled">
 <li><a href="/proposal-journals">Journals</a></li>
