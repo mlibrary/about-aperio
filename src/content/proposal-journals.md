@@ -70,4 +70,4 @@ As a service of the University of Virginia Library, we provide our standard serv
 If you would like to publish a journal with us, please review our other practices and policies as well before contacting <a href="mailto:publish@virginia.edu">publish@virginia.edu</a> to schedule an initial consultation.
 
 <h2 id="deadlines">Deadlines and Review Process</h2>
-Please refer to the <a href=/proposal-information#deadlines">Proposal Information page</a> for the latest information.
+Please refer to the <a href="/proposal-information#deadlines">Proposal Information page</a> for the latest information.
