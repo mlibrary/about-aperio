@@ -10,7 +10,6 @@ title: Proposal Information
 <li><a href="#students">Student Publications</a></li>
 </ul>
 
-
 <h2 id="scope">Scope and Eligibility</h2>
 A venture of the University of Virginia Library, Aperio draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats. By making all of our publications open access—and removing price and permission barriers for readers everywhere—we increase the dissemination, visibility, accessibility, and impact of research and scholarship across the disciplines. We currently support the open access publishing of journals, monographs, edited volumes, open textbooks and other educational resources, and will consider other publication types well. Aperio’s publishing scope reflects the various fields of knowledge, including new and interdisciplinary lines of inquiry.
 
@@ -18,6 +17,8 @@ Currently, Aperio is accepting proposals from University of Virginia faculty, st
 
 <h2 id="proposals">Proposals</h2>
 If you would like to publish with Aperio, please review our policies and the following pages based on your desired format before emailing <a href="mailto:publish@virginia.edu">publish@virginia.edu</a> to set-up an initial consultation.
+
+<br/>
 
 <ul class="list-unstyled">
 <li><a href="/proposal-journals">Journals</a></li>
