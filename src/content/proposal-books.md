@@ -3,7 +3,7 @@ templateKey: proposal-books-page
 title: Books
 ---
 <ul class="list-unstyled">
-<li><a href="#scope">Scope and Eligibility</a></li>
+<li><a href="#scope">Eligibility and Scope</a></li>
 <li><a href="#services">Services</a></li>
 <li><a href="#roles">Roles and Responsibilities<a/></li>
 <li><a href="#costs">Costs</a></li>
