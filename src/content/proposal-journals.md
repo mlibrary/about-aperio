@@ -12,6 +12,7 @@ title: Journals Program
 </ul>
 
 <h2 id="eligibility">Eligibility</h2>
+
 Our open access journal program accepts proposals from UVA faculty, staff, and students who are editors or editorial board members in any discipline.
 
 We welcome editors and board members who wish to move an existing journal, move from paywalls to open access, or start a new journal.
@@ -64,10 +65,13 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Provide financial work tags for agreed upon cost-sharing
 
 <h2 id="costs">Costs</h2>
+
 As a service of the University of Virginia Library, we provide our standard services to all journals at no cost. We can provide optional services within certain limits. Editors aiming to publish at higher volumes and/or with specific/complex needs will be asked to cover additional charges.
 
 <h2 id="proposals">Proposals</h2>
+
 If you would like to publish a journal with us, please review our other practices and policies as well before contacting <a href="mailto:publish@virginia.edu">publish@virginia.edu</a> to schedule an initial consultation.
 
 <h2 id="deadlines">Deadlines and Review Process</h2>
+
 Please refer to the <a href="/proposal-information#deadlines">Proposal Information page</a> for the latest information.

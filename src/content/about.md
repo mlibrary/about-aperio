@@ -5,7 +5,7 @@ title: About
 <ul class="list-unstyled">
 <li><a href="#about">About Aperio</a></li>
 <li><a href="#team">Aperio Press Leadership</a></li>
-<li><a href="#policies">Practicies and Policies</a></li>
+<li><a href="#policies">Practices and Policies</a></li>
 </ul>
 
 <h2 id="about">About Aperio</h2>
@@ -41,8 +41,8 @@ Aperio is run by members of the University of Virginia Library and led by the Ma
 
 Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio. Proposals are peer reviewed using experts from outside our university before being considered by the Advisory Board.
 
-* [Fiona Greenland](https://sociology.as.virginia.edu/people/profile/fg5t) (chair), Assistant Professor of Sociology
-* [Natasha Heller](<https://religiousstudies.as.virginia.edu/faculty/profile/ nlh4x>), Associate Professor, Religious Studies
+* [Fiona Greenland](https://sociology.as.virginia.edu/people/fiona-greenland) (chair), Associate Professor of Sociology
+* [Natasha Heller](https://religiousstudies.as.virginia.edu/natasha-heller), Associate Professor, Religious Studies
 * [Jonathan Kropko](https://datascience.virginia.edu/people/jonathan-kropko), Assistant Professor, Data Science
 * [John O’Brien](https://english.as.virginia.edu/obrien-0), Professor of English
 * [Bryan Cook](https://education.virginia.edu/about/directory/bryan-cook), Professor of Special Education
@@ -50,6 +50,7 @@ Our Advisory Board is comprised of University of Virginia faculty who are active
 <h2 id="policies">Practices and Policies</h2>
 
 <h3>Scope</h3>
+
 A venture of the University of Virginia Library, Aperio draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats. By making all of our publications open access—and removing price and permission barriers for readers everywhere—we increase the dissemination, visibility, accessibility, and impact of research and scholarship across the disciplines. We currently support the open access publishing of journals, monographs, edited volumes, open textbooks and other educational resources, and will consider other publication types well. Aperio’s publishing scope reflects the various fields of knowledge, including new and interdisciplinary lines of inquiry.
 
 Currently, Aperio is accepting proposals from University of Virginia faculty, staff, and students.

@@ -94,7 +94,7 @@ button:focus,
 // links
 p, ul li, ol li {
   font-weight: 300;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 
   a {
   text-decoration: underline;
@@ -314,7 +314,10 @@ blockquote {
   }
 }
 
-// TODO: use Lever News styling?stories
+.summary time {
+  display: block;
+}
+
 .stories {
   padding-top: 2rem;
 }
@@ -395,7 +398,6 @@ p.social {
     }
 
     .footer-email {
-      vertical-align: sub;
       margin-left: .6rem;
     }
   }

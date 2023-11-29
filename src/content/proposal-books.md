@@ -12,6 +12,7 @@ title: Books Program
 </ul>
 
 <h2 id="scope">Eligibility and Scope</h2>
+
 Our open access book program accepts expressions of interest from UVA faculty, staff, and students.
 
 Our book program is broadly constructed to include single-author works, edited volumes, open textbooks, open educational resources, and other book-like works. 
@@ -54,10 +55,13 @@ Our book program is broadly constructed to include single-author works, edited v
 * Provide contact information for at least two people affiliated with the project
 
 <h2 id="costs">Costs</h2>
+
 Each book project will have a unique cost based on desired services. Based on available funding, Aperio may be able to subsidize a book’s cost in part or in whole. Remaining costs will be the responsibility of authors or editors. Decisions by Aperio’s Faculty Advisory Board are made independently.
 
 <h2 id="proposals">Proposals</h2>
+
 If you would like to publish a book with us, please review our other practices and policies as well before contacting <a href="mailto:publish@virginia.edu">publish@virginia.edu</a> with an expression of interest.
 
 <h2 id="deadlines">Deadlines and Review Process</h2>
+
 Please refer to the <a href="/proposal-information/#deadlines">Proposal Information</a> page for the latest information.
