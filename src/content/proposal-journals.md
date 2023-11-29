@@ -1,6 +1,6 @@
 ---
 templateKey: proposal-journals-page
-title: Journals
+title: Journals Program
 ---
 <ul class="list-unstyled">
 <li><a href="#eligibility">Eligibility</a></li>

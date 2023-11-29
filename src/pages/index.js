@@ -135,9 +135,9 @@ const IndexPage = ({data}) => {
               <NewsList news={news} />
               <div className="row mt-4">
                 <div className="col-md-12">
-                  <p className="text-right">
-                    <Link to="/news">Read all News</Link>
-                  </p>
+                  <div className="text-right">
+                    <Link className="btn btn-secondary" to="/news">Read all News</Link>
+                  </div>
                 </div>
               </div>
             </div>

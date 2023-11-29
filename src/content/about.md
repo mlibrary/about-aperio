@@ -25,7 +25,8 @@ Aperio’s transdisciplinary Advisory Board, comprised of well-respected UVA sch
 * Aperio maintains high academic standards for our journals and ensures that they are edited and produced in a rigorous manner that adheres to disciplinary norms.
 * Aperio supports both experimental and traditional forms of scholarly publishing. Our publications are professionally produced, widely disseminated, and digitally preserved.
 
-<h3>Diveresity Statement</h3>
+<h3>Diversity Statement</h3>
+
 Aperio, as a service of the University of the Virginia, shares the university's core values of ethics, integrity, academic excellence, and diversity. Therefore, we are committed to promoting diverse voices in our publications, including those who have been traditionally underrepresented in scholarly publishing. We encourage editorial members associated with our publishing service to actively seek out board members, reviewers, and authors in underrepresented populations and heterogeneity among: race, gender, nationality, religion, sexual orientation, ability, age, and class.
 
 <h2 id="team">Aperio Press Leadership</h2>
@@ -37,6 +38,7 @@ Aperio is run by members of the University of Virginia Library and led by the Ma
 * Jennifer Roper, Director of Digital Strategies and Scholarly Communication
 
 <h3>Aperio Advisory Board</h3>
+
 Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio. Proposals are peer reviewed using experts from outside our university before being considered by the Advisory Board.
 
 * [Fiona Greenland](https://sociology.as.virginia.edu/people/profile/fg5t) (chair), Assistant Professor of Sociology
@@ -53,20 +55,25 @@ A venture of the University of Virginia Library, Aperio draws upon the strengths
 Currently, Aperio is accepting proposals from University of Virginia faculty, staff, and students.
 
 <h3>Open Access and Copyright</h3>
+
 Aperio’s publications are all immediately available open access. Our content is published using Creative Commons Licenses, which guarantee that the copyright remains with the author while allowing the work to be freely and immediately available to readers.
 
 <h3>Peer Review</h3>
-Aperio provides its journal editors with access to and guidance on the \[Committee on Publishing Ethics](https://publicationethics.org/) (COPE) guidelines, and our editors have agreed to adhere to them.
+
+Aperio provides its journal editors with access to and guidance on the <a href="https://publicationethics.org">Committee on Publishing Ethics</a> (COPE) guidelines, and our editors have agreed to adhere to them.
 
 In accordance with these guidelines, each journal maintains high academic standards and sets its own peer review process in accordance with disciplinary norms. We offer the option of open peer review as well. Any content that is not peer-reviewed will be clearly marked on the journal website. The peer review process for other publications will be noted individually.
 
 <h3>Indexing</h3>
-Our content is assigned \[Digital Object Identifiers](https://www.doi.org/) (DOI). This allows for easier referencing and tracking of citations by the publishing and research communities. We work with editors to ensure that journals are registered with as many appropriate indexes as possible. Article-level metadata are openly available for indexing and harvesting via OAI-PMH as well. Individual journals may list additional indexes where their articles are found.
+
+Our content is assigned <a href="https://www.doi.org">Digital Object Identifiers</a> (DOI). This allows for easier referencing and tracking of citations by the publishing and research communities. We work with editors to ensure that journals are registered with as many appropriate indexes as possible. Article-level metadata are openly available for indexing and harvesting via OAI-PMH as well. Individual journals may list additional indexes where their articles are found.
 
 <h3>Archiving</h3>
-To ensure the future availability of our publications, we utilize [CLOCKSS](https://www.clockss.org). The University of Virginia is a CLOCKSS node and a member of its Board of Directors.
+
+To ensure the future availability of our publications, we utilize <a href="https://www.clockss.org">CLOCKSS</a>. The University of Virginia is a CLOCKSS node and a member of its Board of Directors.
 
 <h3>Data Sharing</h3>
+
 We encourage Aperio’s authors to make their related research objects open access in addition to the written publications. Open data, specifically, enables better review and replication of one’s research. It also increases one’s research impact, allows for greater and faster scientific progress, and more opportunities for collaboration.
 
 We urge authors to use the CC0 license when depositing research data, to make it part of the public domain and enable greater reuse.
@@ -78,4 +85,5 @@ Researchers outside of the University of Virginia are encouraged to deposit thei
 Journal editors may contact us about creating their own journal-specific data repository within UVa’s Libra Data. This will ensure better linking between research publications and related datasets.
 
 <h3>Costs</h3>
+
 Aperio’s publications are always free for readers everywhere. In alignment with our mission, we have worked with our partners to eliminate any need for article processing charges in all our journals.

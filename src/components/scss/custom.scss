@@ -94,6 +94,8 @@ button:focus,
 // links
 p, ul li, ol li {
   font-weight: 300;
+  font-size: 1.1rem;
+
   a {
   text-decoration: underline;
   color: $aperio-link;
@@ -225,7 +227,7 @@ header {
     }
 
     .card-text {
-      font-size: .9rem;
+      font-size: 1.1rem;
       color: #333;
     }
 
@@ -245,8 +247,8 @@ header {
     justify-content: space-between;
   }
 
-  .tagline {
-    font-weight: bold;
+  .tagline p {
+    font-weight: 500;
     font-size: 1.6rem;
   }
 }
@@ -389,7 +391,7 @@ p.social {
 
     .logo-img img {
       height: auto;
-      width: 165px;
+      width: 200px;
     }
 
     .footer-email {

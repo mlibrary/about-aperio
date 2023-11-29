@@ -1,6 +1,6 @@
 ---
 templateKey: proposal-books-page
-title: Books
+title: Books Program
 ---
 <ul class="list-unstyled">
 <li><a href="#scope">Eligibility and Scope</a></li>

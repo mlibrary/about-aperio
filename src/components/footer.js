@@ -23,8 +23,8 @@ const Footer = () => {
         <div className="row justify-content-between">
           <section className="col-md-4 contact">
             <a href="/" className="logo gibson">aperio</a>
-            <small className="d-block">Charlottesville, VA</small>
-            <small className="d-block"><a href="mailto:publish@virginia.edu">publish@virginia.edu</a></small>            
+            <span className="d-block">Charlottesville, VA</span>
+            <span className="d-block"><a href="mailto:publish@virginia.edu">publish@virginia.edu</a></span>            
             <a href="https://library.virginia.edu" className="logo-img"><img src="/assets/uva_library_light.gif" alt="University of Virginia Library" /></a>
             <span className="d-block">
               <a href="https://twitter.com/AperioUVA"><svg height="16px" width="auto" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -36,10 +36,10 @@ const Footer = () => {
         </div>
         <div className="row mt-3">
           <div className="col-md-6">
-          <small className="text-light d-block mb-3">© {year}, aperio · <a className="text-light" href="https://fulcrum.org/accessibility/">Accessibility</a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="/privacy">Privacy</a> · <a className="text-light" href="/terms">Terms</a></small>    
+          <span className="text-light d-block mb-3">© {year}, aperio · <a className="text-light" href="https://fulcrum.org/accessibility/">Accessibility</a> · <a className="text-light" href="https://fulcrum.org/preservation">Preservation</a> · <a className="text-light" href="https://fulcrum.org/privacy">Privacy</a> · <a className="text-light" href="https://fulcrum.org/terms">Terms</a></span>    
           </div>
           <div className="col-md-6 text-right">
-            <small className="text-white">Powered by</small> <a href="https://fulcrum.org/"><img className="fulcrum" src="/assets/fulcrum-full-white.svg" alt="Fulcrum logo" height="20" width="auto" /></a>
+            <span className="text-white">Powered by</span> <a href="https://fulcrum.org/"><img className="fulcrum" src="/assets/fulcrum-full-white.svg" alt="Fulcrum logo" height="20" width="auto" /></a>
           </div>
         </div>
       </div>  
