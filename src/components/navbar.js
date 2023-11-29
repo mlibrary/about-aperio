@@ -26,6 +26,7 @@ const Navbar = () => {
               <a href="/" className="navbar-brand">
                 <h1>aperio</h1>
               </a>
+              <span className="text-light garamond"><em>A service of the University of Virginia</em></span>
             </div>
           </div>
         </div>       
