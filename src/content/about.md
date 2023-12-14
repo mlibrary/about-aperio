@@ -75,6 +75,8 @@ To ensure the future availability of our publications, we utilize <a href="https
 
 <h3>Data Sharing</h3>
 
+
+
 We encourage Aperio’s authors to make their related research objects open access in addition to the written publications. Open data, specifically, enables better review and replication of one’s research. It also increases one’s research impact, allows for greater and faster scientific progress, and more opportunities for collaboration.
 
 We urge authors to use the CC0 license when depositing research data, to make it part of the public domain and enable greater reuse.
