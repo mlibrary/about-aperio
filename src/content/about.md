@@ -18,6 +18,8 @@ We recognize that no institution can afford to provide access to all the literat
 
 Aperio’s transdisciplinary Advisory Board, comprised of well-respected UVA scholars, bolsters the academic integrity of our press. Journals are edited by distinguished experts in their respective fields. These publications are held to disciplinary standards including rigorous peer review.
 
+<a class="btn btn-primary" href="//proposal-information">Test Link</a>
+
 <h3>Goals</h3>
 
 * Aperio publishes open access journals that reflect the various fields of knowledge represented at UVA, including new and interdisciplinary lines of inquiry.
@@ -74,8 +76,6 @@ Our content is assigned <a href="https://www.doi.org">Digital Object Identifiers
 To ensure the future availability of our publications, we utilize <a href="https://www.clockss.org">CLOCKSS</a>. The University of Virginia is a CLOCKSS node and a member of its Board of Directors.
 
 <h3>Data Sharing</h3>
-
-
 
 We encourage Aperio’s authors to make their related research objects open access in addition to the written publications. Open data, specifically, enables better review and replication of one’s research. It also increases one’s research impact, allows for greater and faster scientific progress, and more opportunities for collaboration.
 
