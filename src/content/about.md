@@ -18,8 +18,6 @@ We recognize that no institution can afford to provide access to all the literat
 
 Aperio’s transdisciplinary Advisory Board, comprised of well-respected UVA scholars, bolsters the academic integrity of our press. Journals are edited by distinguished experts in their respective fields. These publications are held to disciplinary standards including rigorous peer review.
 
-<a class="btn btn-primary" href="//proposal-information">Test Link</a>
-
 <h3>Goals</h3>
 
 * Aperio publishes open access journals that reflect the various fields of knowledge represented at UVA, including new and interdisciplinary lines of inquiry.
