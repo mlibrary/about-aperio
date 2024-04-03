@@ -20,7 +20,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { name: templateKey, label: "Template Key", widget: hidden, default: story }
+      - { name: templateKey, label: "Template Key", widget: hidden, default:news }
       - { name: title, label: Title }
       - { name: summary, label: Summary }
       - { name: body, label: Body, widget: markdown }

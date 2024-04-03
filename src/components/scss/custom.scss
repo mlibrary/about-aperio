@@ -104,6 +104,10 @@ p, ul li, ol li {
     text-decoration-thickness: 2px;
     color: $aperio-link;
   }
+
+  a.btn {
+    text-decoration: none;
+  }
 }
 
 .link {
