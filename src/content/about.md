@@ -39,7 +39,7 @@ Aperio is run by members of the University of Virginia Library and led by the Ma
 
 <h3>Aperio Advisory Board</h3>
 
-Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio. Proposals are peer reviewed using experts from outside our university before being considered by the Advisory Board.
+Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio.
 
 * [Fiona Greenland](https://sociology.as.virginia.edu/people/fiona-greenland) (chair), Associate Professor of Sociology
 * [Natasha Heller](https://religiousstudies.as.virginia.edu/natasha-heller), Associate Professor, Religious Studies
