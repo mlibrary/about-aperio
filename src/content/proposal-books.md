@@ -47,7 +47,7 @@ Our book program is broadly constructed to include single-author works, edited v
 * Provide book text and files in requested format and specifications
 * Secure permissions to use copyrighted materials
 * Editors will secure author agreements
-* Develop and manage peer review
+* Develop and manage a quality control process: This may include editor-coordinated peer review for multi-authored volumes or a documented, self-administered review process conducted pre-submission for single-authored books.
 * Manage book promotion including any social media
 * Provide financial work tags for agreed upon cost-sharing
 * Respond to Aperio communications in a timely manner
