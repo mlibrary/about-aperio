@@ -33,7 +33,7 @@ Proposals are accepted on a rolling basis and are evaluated on a quarterly basis
 
 All journal proposals and expressions of interest will first be evaluated by Aperio staff to determine whether they fit within our scope and policies. Proposers may be asked to edit proposals and provide more information for us to determine a project's feasibility and prepare proposals for review.
 
-Proposals that receive two positive external reviews will be sent to the Aperio Advisory Board. Proposals that are accepted by the Advisory Board must also obtain final approval from the Aperio Management Team. Decisions will be shared with proposers as soon as possible, and project planning will commence immediately with those who are accepted.
+Proposals must include two letters of support (one from a UVA faculty member and one external to UVA) in order to be reviewed by the Aperio Advisory Board. Proposals that are accepted by the Advisory Board must also obtain final approval from the Aperio Management Team. Decisions will be shared with proposers as soon as possible, and project planning will commence immediately with those who are accepted.
 
 <h2 id="students">Student Publications</h2>
 
