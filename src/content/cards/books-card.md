@@ -1,7 +1,8 @@
 ---
 templateKey: card
 title: Our Books
-description: We publish high-quality, peer-reviewed open educational resources that are engaging and useful for teaching and learning.
+description: We publish high-quality books and open educational resources that
+  are engaging and useful for teaching and learning.
 buttonLabel: Browse Books
 buttonUrl: https://www.fulcrum.org/aperio
 cardImage: assets/books.jpg
