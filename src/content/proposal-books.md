@@ -17,7 +17,7 @@ Our open access book program accepts expressions of interest from UVA faculty, s
 
 Our book program is broadly constructed to include single-author works, edited volumes, open textbooks, open educational resources, and other book-like works.
 
-Note: Aperio does not directly administer or coordinate traditional peer review for accepted works. Editors are expected to coordinate peer review for multi-authored works. Other authors are expected to self-manage and describe a quality control process that includes peer feedback.
+Note: Aperio does not directly administer or coordinate traditional peer review for accepted works. Editors are expected to coordinate peer review for multi-authored works. Other authors are expected to self-manage and describe a quality improvement process that includes peer feedback.
 
 <h2 id="services">Services</h2>
 <h3>Basic book services</h3>
