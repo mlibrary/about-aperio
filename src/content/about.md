@@ -41,11 +41,10 @@ Aperio is run by members of the University of Virginia Library and led by the Ma
 
 Our Advisory Board is comprised of University of Virginia faculty who are active scholars and researchers in their respective disciplines. This board helps ensure the scholarly integrity of Aperio’s catalog by evaluating journal, book, and other proposals made to Aperio.
 
-* [Fiona Greenland](https://sociology.as.virginia.edu/people/fiona-greenland) (chair), Associate Professor of Sociology
+* [Bryan Cook](https://education.virginia.edu/about/directory/bryan-cook), (chair) Professor of Special Education
 * [Natasha Heller](https://religiousstudies.as.virginia.edu/natasha-heller), Associate Professor, Religious Studies
 * [Jonathan Kropko](https://datascience.virginia.edu/people/jonathan-kropko), Assistant Professor, Data Science
 * [John O’Brien](https://english.as.virginia.edu/obrien-0), Professor of English
-* [Bryan Cook](https://education.virginia.edu/about/directory/bryan-cook), Professor of Special Education
 
 <h2 id="policies">Practices and Policies</h2>
 
