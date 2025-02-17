@@ -35,7 +35,7 @@ Aperio, as a service of the University of the Virginia, shares the university's 
 Aperio is run by members of the University of Virginia Library and led by the Management Team. The Managing Editor is responsible for the day-to-day operations of the press. The Management Team focuses on Aperio’s strategy, operations, and finances, and Fulcrum provides most of our technology and production services.
 
 * Dave Ghamandi, Managing Editor, Aperio and Open Publishing Librarian
-* Jennifer Roper, Director of Digital Strategies and Scholarly Communication
+* Kiowa Hammons, Director of Copyright and Scholarly Communication Services
 
 <h3>Aperio Advisory Board</h3>
 
