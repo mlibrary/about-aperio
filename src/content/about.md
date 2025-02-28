@@ -82,7 +82,7 @@ Researchers at the University of Virginia have access to the institution’s dat
 
 Researchers outside of the University of Virginia are encouraged to deposit their data in an appropriate institutional or disciplinary repository.
 
-Journal editors may contact us about creating their own journal-specific data repository within UVa’s Libra Data. This will ensure better linking between research publications and related datasets.
+UVA journal editors may contact us about creating their own journal-specific data repository within UVA’s Libra Data. This will ensure better linking between research publications and related datasets.
 
 <h3>Costs</h3>
 
