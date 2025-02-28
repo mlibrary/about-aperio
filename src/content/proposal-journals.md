@@ -47,8 +47,9 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Advice on publishing practices, policies, and copyright
 * Notifying editors of expected downtimes and technical upgrades
 * With advanced agreement:
-    * Migrate backfiles
-    * Article production in XML and PDF formats with agreed upon limits
+
+  * Migrate backfiles
+  * Article production in XML and PDF formats with agreed upon limits
 
 <h3>Journal Editor</h3>
 
@@ -61,7 +62,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Responding to Aperio communications in a timely manner
 * Managing applications to abstracting and indexing services
 * Continuity and sustainability plans for their journal. This includes providing Aperio with multiple contacts for each journal and notifying us of changes in journal management.
-* Student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan.
+* UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan.
 * Provide financial work tags for agreed upon cost-sharing
 
 <h2 id="costs">Costs</h2>
