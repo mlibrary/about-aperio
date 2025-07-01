@@ -54,7 +54,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 <h3>Journal Editor</h3>
 
 * Establishing and maintaining journal policies, practices, and procedures, including making updates via the journal management system
-* Administering and managing editorial workflows, including solicitation of manuscripts, peer review, and consistent publishing
+* Administering and managing editorial workflows, including solicitation of manuscripts, peer review, and consistent publishing. Journals are expected to publish at least six articles a year. Failure to solicit manuscripts and publish consistently will result in the journal being switched to an archived, read-only mode. New journals are afforded more time to meet these requirements.
 * Agree to Aperio’s Practices and Policies, including publishing fully open access and adhering to <a href="http://www.publicationethics.org/files/Code_of_conduct_for_journal_editors_Mar11.pdf">Committee on Publishing Ethics (COPE)</a> guidelines
 * Work with authors to secure any necessary copyright permissions
 * Copyediting and proofreading
