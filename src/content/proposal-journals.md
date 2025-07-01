@@ -54,7 +54,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 <h3>Journal Editor</h3>
 
 * Establishing and maintaining journal policies, practices, and procedures, including making updates via the journal management system
-* Administering and managing editorial workflows, including solicitation of manuscripts, peer review, and consistent publishing. Journals are expected to publish at least six articles a year. Failure to solicit manuscripts and publish consistently will result in the journal being switched to an archived, read-only mode. New journals are afforded more time to meet these requirements.
+* Administering and managing editorial workflows, including solicitation of manuscripts, peer review, and consistent publishing. Journals are expected to publish at least six articles a year. New journals are afforded more time to meet these requirements.
 * Agree to Aperio’s Practices and Policies, including publishing fully open access and adhering to <a href="http://www.publicationethics.org/files/Code_of_conduct_for_journal_editors_Mar11.pdf">Committee on Publishing Ethics (COPE)</a> guidelines
 * Work with authors to secure any necessary copyright permissions
 * Copyediting and proofreading
@@ -64,6 +64,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Continuity and sustainability plans for their journal. This includes providing Aperio with multiple contacts for each journal and notifying us of changes in journal management.
 * UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan.
 * Provide financial work tags for agreed upon cost-sharing
+* Understand that failure to fulfill responsibilities may result in the journal being switched to an archived, read-only mode
 
 <h2 id="costs">Costs</h2>
 
