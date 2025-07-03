@@ -19,8 +19,8 @@ const Card = ({cardImage, card}) => {
           <p className="card-text">{description}</p>
           {
             buttonUrl.startsWith("/")
-            ? <Link className="card-link btn btn-secondary" role="button" to={buttonUrl}>{buttonLabel}</Link>
-            : <a className="card-link btn btn-secondary" role="button" href={buttonUrl}>{buttonLabel}</a>
+            ? <Link className="card-link btn btn-secondary" to={buttonUrl}>{buttonLabel}</Link>
+            : <a className="card-link btn btn-secondary" href={buttonUrl}>{buttonLabel}</a>
           }
         </div>        
       </div>

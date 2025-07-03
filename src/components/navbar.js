@@ -40,10 +40,10 @@ const Navbar = () => {
             <a className="nav-link text-dark" href="https://fulcrum.org/aperio">Books</a>
             <a className="nav-link text-dark" href="https://journals.aperio.press/journals">Journals</a>
             <div className="dropdown show">
-              <a className="nav-link text-dark dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <button className="nav-link text-dark dropdown-menu-top-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-expanded="false">
                 Publish with us
-              </a>
-              <div className="dropdown-menu" aria-labelledby="dropdownMenuLink">
+              </button>
+              <div className="dropdown-menu">
                 <a className="dropdown-item" href="/proposal-information">Proposal Information</a>
                 <a className="dropdown-item" href="/proposal-journals">Journals Program</a>
                 <a className="dropdown-item" href="/proposal-books">Books Program</a>
