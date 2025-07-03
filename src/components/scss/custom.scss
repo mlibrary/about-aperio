@@ -81,13 +81,15 @@ h5 {
   margin-top: 1rem;
 }
 
-a:focus,
-button:focus,
-.form-control:focus,
-.btn:focus {
-  outline: 0;
-  box-shadow: 0 0 0 2px $aperio-brand-color,0 0 0 3px $aperio-accent-color;
-  border-radius: 0px !important;
+*:focus {
+	/* inner indicator */
+	outline: 2px #F9F9F9 solid !important;
+	outline-offset: 0;
+	/* outer indicator */
+	box-shadow: 0 0 0 4px #193146 !important;
+  -webkit-transition: outline .05s ease-out;
+  -o-transition: outline .05s ease-out;
+  transition: outline .05s ease-out;
 }
 
 
@@ -191,6 +193,23 @@ header {
   border-top: 0;
 }
 
+.dropdown-menu-top-link {
+  text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0;
+  background-color: #ffffff;
+}
+
+.dropdown-menu-top-link:hover,
+.dropdown-menu-top-link:active,
+.dropdown-menu-top-link:focus {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 // cards
 
 .cards-container {
@@ -271,8 +290,31 @@ header {
 
 // news on home
 .blog-card-container {
-  a .card-text {
-    color: $aperio-accent-color;
+  .card-title a {
+    color: $aperio-accent-color
+  }
+
+  .card:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .card-body {
+    color: $aperio-accent-color !important;
+    position: relative;
+
+    a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+
+    a:focus {
+      text-decoration: underline;
+    }
   }
 }
 

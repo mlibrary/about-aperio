@@ -1,5 +1,5 @@
 import React from 'react'
-import {graphql, useStaticQuery} from 'gatsby'
+import {graphql, useStaticQuery, Link} from 'gatsby'
 
 export const titleQuery = graphql`
 {
@@ -35,10 +35,14 @@ const Footer = () => {
           </section>
           <section className="col-md-3">
             <ul className="list-unstyled pt-4">
-              <li><a className="text-light gibson" href="/about">About Aperio</a></li>
-              <li><a className="text-light gibson" href="about#policies">Practices and Policies</a></li>
-              <li><a className="text-light gibson" href="/proposal-information">Proposal Information</a></li>
-              <li><a className="text-light gibson" href="/news">News</a></li>
+              <li><Link className="text-light gibson" to="/about">About Aperio</Link></li>
+              <li><Link className="text-light gibson" to="about#policies">Practices and Policies</Link></li>
+              <li><a className="text-light gibson" href="https://fulcrum.org/aperio">Books</a></li>
+              <li><a className="text-light gibson" href="https://journals.aperio.press/journals">Journals</a></li>
+              <li><Link className="text-light gibson" to="/proposal-information">Proposal Information</Link></li>
+              <li><Link className="text-light gibson" to="/proposal-journals">Journals Program</Link></li>
+              <li><Link className="text-light gibson" to="/proposal-books">Books Program</Link></li>
+              <li><Link className="text-light gibson" to="/news">News</Link></li>
             </ul>
           </section>
         </div>
