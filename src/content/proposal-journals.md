@@ -66,6 +66,15 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Provide financial work tags for agreed upon cost-sharing
 * Understand that failure to fulfill responsibilities may result in the journal being switched to an archived, read-only mode
 
+<h3>Student Journal Advisor</h3>
+
+* Provides the following as needed and helpful to the student journal:
+
+  * Advice on the mission and goals of the journal
+  * Guidance, advice, and consultations with the student journal editors throughout the year. This includes consulting on editorial practices and dealing with authors and reviewers
+  * Feedback on the journal's scholarship
+  * Assistance with the continuity and sustainability of editorial staff
+
 <h2 id="costs">Costs</h2>
 
 As a service of the University of Virginia Library, we provide our standard services to all journals at no cost. We can provide optional services within certain limits. Editors aiming to publish at higher volumes and/or with specific/complex needs will be asked to cover additional charges.
