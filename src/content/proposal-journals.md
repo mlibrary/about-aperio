@@ -62,7 +62,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Responding to Aperio communications in a timely manner
 * Managing applications to abstracting and indexing services
 * Continuity and sustainability plans for their journal. This includes providing Aperio with multiple contacts for each journal and notifying us of changes in journal management.
-* UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan.
+* UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan and share a copy with Aperio.
 * Provide financial work tags for agreed upon cost-sharing
 * Understand that failure to fulfill responsibilities may result in the journal being switched to an archived, read-only mode
 
