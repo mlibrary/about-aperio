@@ -46,6 +46,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 * Editorial and article statistics
 * Advice on publishing practices, policies, and copyright
 * Notifying editors of expected downtimes and technical upgrades
+* Indexing: Aperio will research each indexing request and apply to those we deem sustainable on a journal's behalf
 * With advanced agreement:
 
   * Migrate backfiles
@@ -65,6 +66,7 @@ We welcome editors and board members who wish to move an existing journal, move 
 * UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan and share a copy with Aperio.
 * Provide financial work tags for agreed upon cost-sharing
 * Understand that failure to fulfill responsibilities may result in the journal being switched to an archived, read-only mode
+* Indexing: submit indexing requests to Aperio; for indexes that don't pass Aperio's screening, may pursue on DIY-basis
 
 <h3>Student Journal Advisor</h3>
 
