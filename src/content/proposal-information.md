@@ -31,6 +31,8 @@ If you would like to publish with Aperio, please review our policies and the fol
 
 Proposals are accepted on a rolling basis and are evaluated on a quarterly basis beginning on the first days of business in January, April, July, and October.
 
+We are currently accepting book proposals only. Journal proposals are closed for 2026.
+
 <h2 id="review">Review Process</h2>
 
 All journal proposals and expressions of interest will first be evaluated by Aperio staff to determine whether they fit within our scope and policies. Proposers may be asked to edit proposals and provide more information for us to determine a project's feasibility and prepare proposals for review.
