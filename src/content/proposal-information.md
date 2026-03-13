@@ -25,6 +25,8 @@ If you would like to publish with Aperio, please review our policies and the fol
 <li><a href="/proposal-books">Books</a></li>
 </ul>
 
+**We are currently accepting book proposals only. Journal proposals are closed for 2026.**
+
 <h2 id="deadlines">Deadlines</h2>
 
 Proposals are accepted on a rolling basis and are evaluated on a quarterly basis beginning on the first days of business in January, April, July, and October.
