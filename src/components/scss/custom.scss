@@ -17,6 +17,7 @@ $aperio-headings: rgb(33, 43, 54);
 //$aperio-link: #4500E6;
 $aperio-link: #005679;
 $aperio-black: #000000;
+$aperio-dark-orange: #B35900;
 
 // typography
 @mixin gibson {
@@ -126,6 +127,10 @@ p, ul li, ol li {
 .btn {
   @include gibson;
   font-weight: 500;
+}
+
+.btn-primary {
+  background-color: $aperio-dark-orange;
 }
 
 // header and navigation
@@ -438,9 +443,16 @@ p.social {
       text-decoration: none;
     }
 
-    .logo-img img {
+    .d-block a {
+      padding: 4px 0;
+    }
+
+    .logo-img {
+      padding: 10px 0;
+      img {
       height: auto;
       width: 200px;
+      }
     }
 
     .twitter {
