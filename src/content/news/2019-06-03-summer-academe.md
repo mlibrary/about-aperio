@@ -8,7 +8,7 @@ Summer Academe provides university and college administrators, deans and directo
 
 Summer Academe, an open access journal, is committed to being freely and immediately available to summer session professionals and readers everywhere. The journal is sponsored by the North American Association of Summer Sessions and the Association of University Summer Sessions. The editorial board represents both professional organizations, and Rachel Nottingham Miller serves as the academic editor.
 
-Summer Academe's newest articles can be found at its new URL: www.summeracademe.org
+Summer Academe's newest articles can be found at its new URL: [www.summeracademe.org](https://www.summeracademe.org)
 
 <br/>
 
