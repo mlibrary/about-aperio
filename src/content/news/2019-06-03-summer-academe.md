@@ -1,6 +1,6 @@
 ---
 templateKey: news
-title: 'New Journal Transfer: Summer Academe'
+title: "New Journal Transfer: Summer Academe"
 summary: Aperio is the new home of the peer-reviewed journal, Summer Academe.
 date: 2019-06-03T19:14:00.635Z
 ---
@@ -10,6 +10,6 @@ Summer Academe, an open access journal, is committed to being freely and immedia
 
 Summer Academe's newest articles can be found at its new URL: www.summeracademe.org
 
-###
+<br/>
 
 Aperio, a joint venture of the University of Virginia Library and the University of Virginia Press, draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats—including journals, monographs, conferences, and open educational resources.
