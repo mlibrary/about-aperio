@@ -32,7 +32,7 @@ Aperio, as a service of the University of the Virginia, shares the university's 
 <h2 id="team">Aperio Press Leadership</h2>
 <h3>Aperio Management Team</h3>
 
-Aperio is run by members of the University of Virginia Library and led by the Management Team. The Managing Editor is responsible for the day-to-day operations of the press. The Management Team focuses on Aperio’s strategy, operations, and finances, and Fulcrum provides most of our technology and production services.
+Aperio is run by members of the University of Virginia Library and led by the Management Team. The Managing Editor is responsible for the day-to-day operations of the press. The Management Team focuses on Aperio’s strategy, operations, and finances, and our vendors provides most of our technology and production services.
 
 * Dave Ghamandi, Open Publishing Librarian
 * Kiowa Hammons, Director of Copyright and Scholarly Communication Services
@@ -53,7 +53,7 @@ Our Advisory Board is comprised of University of Virginia faculty who are active
 
 A venture of the University of Virginia Library, Aperio draws upon the strengths of the University to increase open access to knowledge for a global audience in a variety of formats. By making all of our publications open access—and removing price and permission barriers for readers everywhere—we increase the dissemination, visibility, accessibility, and impact of research and scholarship across the disciplines. We currently support the open access publishing of journals, monographs, edited volumes, open textbooks and other educational resources, and will consider other publication types well. Aperio’s publishing scope reflects the various fields of knowledge, including new and interdisciplinary lines of inquiry.
 
-Currently, Aperio is accepting proposals from University of Virginia faculty, staff, and students.
+Aperio proposals may only be submitted by University of Virginia faculty, staff, or students.
 
 <h3>Open Access and Copyright</h3>
 
@@ -71,7 +71,7 @@ Our content is assigned <a href="https://www.doi.org">Digital Object Identifiers
 
 <h3>Archiving</h3>
 
-To ensure the future availability of our publications, we utilize <a href="https://www.clockss.org">CLOCKSS</a>. The University of Virginia is a CLOCKSS node and a member of its Board of Directors.
+To ensure the future availability of our publications, we utilize <a href="https://www.clockss.org">CLOCKSS</a>. The University of Virginia is a CLOCKSS node.
 
 <h3>Data Sharing</h3>
 
