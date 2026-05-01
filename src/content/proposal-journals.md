@@ -66,7 +66,17 @@ We welcome editors and board members who wish to move an existing journal, move 
 * UVA student editors must have their journal sponsored by a UVA faculty member or academic unit. Students must develop a succession plan and share a copy with Aperio.
 * Provide financial work tags for agreed upon cost-sharing
 * Understand that failure to fulfill responsibilities may result in the journal being switched to an archived, read-only mode
-* Indexing: submit indexing requests to Aperio; for indexes that don't pass Aperio's screening, may pursue on DIY-basis
+* Indexing:  The journal editorial staff will make a request in writing when application to an index is desired. Please include the index’s website. Aperio will investigate the index and make a determination of whether the publisher will pursue applying to the index on behalf of the journal. Considerations include:
+
+  * Index requirements
+
+    * some indices require the publisher to apply on behalf of the journal
+    * Some require agreements/contracts that Aperio is constrained by law or policy from signing, but the journal would not be bound by the same constraints
+  * Costs to journal or publisher
+  * Index’s method of ingesting content from journals. Aperio will give priority to indices which:
+
+    * automatically pull content from the journal once it is accepted; or
+    * allow sustainable, automated pushing of content from Aperio’s technical partners
 
 <h3>Student Journal Advisor</h3>
 
