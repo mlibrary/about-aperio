@@ -45,7 +45,7 @@ Our Advisory Board is comprised of University of Virginia faculty who are active
 * [Bryan Cook](https://education.virginia.edu/about/directory/bryan-cook), (chair) Professor of Special Education
 * [Natasha Heller](https://religiousstudies.as.virginia.edu/natasha-heller), Associate Professor, Religious Studies
 * [Jonathan Kropko](https://datascience.virginia.edu/people/jonathan-kropko), Assistant Professor, Data Science
-* [John O’Brien](https://english.as.virginia.edu/obrien-0), Professor of English
+* [John O’Brien](https://english.as.virginia.edu/people/john-obrien), Professor of English
 
 <h2 id="policies">Practices and Policies</h2>
 
