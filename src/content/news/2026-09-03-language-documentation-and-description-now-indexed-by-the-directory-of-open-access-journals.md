@@ -1,4 +1,5 @@
 ---
+templateKey: news
 title: Language Documentation and Description Now Indexed by the Directory of
   Open Access Journals
 summary: Aperio's Language Documentation and Description is now indexed by the
