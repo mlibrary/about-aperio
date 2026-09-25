@@ -28,8 +28,7 @@ export const query = graphql`
       frontmatter: { templateKey: { eq: "news" } }
     },
     sort: {
-      fields: frontmatter___date,
-      order: DESC
+      frontmatter: { date: DESC }
     }
   ) {
     edges {
