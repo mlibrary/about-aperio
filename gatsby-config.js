@@ -1,3 +1,11 @@
+// React 19 no longer ships the UMD files that gatsby-plugin-decap-cms copies.
+const bundleCmsDependencies = config => {
+  config.externals = []
+  config.plugins = config.plugins.filter(plugin =>
+    ![`CopyPlugin`, `HtmlWebpackTagsPlugin`].includes(plugin.constructor.name)
+  )
+}
+
 module.exports = {
   siteMetadata: {
     title: `Aperio`,
@@ -15,34 +23,32 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gtag`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        // your google analytics tracking id
-        trackingId: `G-78Q0B8HBQT`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: false,
+        trackingIds: [`G-78Q0B8HBQT`],
+        gtagConfig: {
+          anonymize_ip: false,
+        },
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
       resolve: `gatsby-plugin-sass`,
       options: {
-        precision: 6
-      }
-    },
-    {
-      resolve: `gatsby-plugin-env-variables`,
-      options: {
-        whitelist: ["BRANCH"]
+        sassOptions: {
+          charset: false,
+        },
       },
     },
     {
-      resolve: `gatsby-plugin-netlify-cms`,
+      resolve: `gatsby-plugin-decap-cms`,
       options: {
-        manualInit: true, // https://github.com/netlify/netlify-cms/issues/1737#issuecomment-530992998 HELIO-3241
+        manualInit: true,
         enableIdentityWidget: false,
         modulePath: `${__dirname}/src/cms/cms.js`,
+        customizeWebpackConfig: bundleCmsDependencies,
       }
     },
     {
@@ -74,9 +80,6 @@ module.exports = {
         icon: `src/images/aperio.png`, // This path is relative to the root of the site.
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-transformer-remark',
       options: {

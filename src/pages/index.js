@@ -40,8 +40,7 @@ query {
       frontmatter: { templateKey: { eq: "card" } }
     },
     sort: {
-      fields: frontmatter___date,
-      order: DESC
+      frontmatter: { date: DESC }
     },
     limit: 2
   ) {
@@ -65,8 +64,7 @@ query {
       frontmatter: { templateKey: { eq: "news" } }
     },
     sort: {
-      fields: frontmatter___date,
-      order: DESC
+      frontmatter: { date: DESC }
     },
     limit: 3
   ) {
