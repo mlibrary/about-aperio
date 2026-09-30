@@ -29,7 +29,7 @@ not required.
 ## Content management
 
 Decap CMS is available at `/admin/`. Local builds target the `main` branch.
-Netlify sets `GATSBY_CMS_BRANCH` from its `BRANCH` build variable so deploy
+Netlify sets `GATSBY_CMS_BRANCH` from its `HEAD` (source branch) build variable so deploy
 previews edit the branch being previewed.
 
 ## Netlify
